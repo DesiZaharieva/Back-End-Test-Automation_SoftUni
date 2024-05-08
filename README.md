@@ -1,1 +1,1 @@
-# Back-End-Test-Automation_SoftUni
+Certificate after passing the exam.
